@@ -21,7 +21,7 @@ print(Fore.GREEN)
 print('''
                                                                                                            
   
-         -   M  R  X   -  V = 2.1   ''')
+         -   R A İ D E R   -  Z E D  ''')
 
 print(f'''      {B}{E}==============================
       |{G}[+] Github    : {B}frostyxd1   {E}|
@@ -29,13 +29,13 @@ print(f'''      {B}{E}==============================
       |{G}[+] TeleGram  : {B}https://t.me/redhackarsiv{E}|
       {E}==============================''')
 print('               R A İ D E R                    ')      
-print('''\033[1;34m    Burası İyi Olanların Değil, İyi Oynayanların Mekanı!       
+print('''\033[1;34m  Burası İyi Olanların Değil, İyi Oynayanların Mekanı!       
        \n\n''')    
 
-print('\033[1;35m    Merhaba, Lütfen Başlamadan Önce Telegram Kanalımıxa Uğra!   \n')              
+print('\033[1;35m  Merhaba, Lütfen Başlamadan Önce Telegram Kanalımıxa Uğra!   \n')              
 #os.system(f'xdg-open https://t.me/redhackarsiv')
 time.sleep(3)       
-os.system(f'xdg-open https://t.me/reshackarsiv')
+os.system(f'xdg-open https://t.me/redhackarsiv')
 time.sleep(3)
    
 id=input(W+f'  [{E} ** {W}]  {S}Telegram ID Gir ==> {B}')
