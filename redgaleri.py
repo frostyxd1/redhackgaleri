@@ -25,17 +25,17 @@ print('''
 
 print(f'''      {B}{E}==============================
       |{G}[+] Github    : {B}frostyxd1   {E}|
-      |{G}[+] Developer : {B}RES HACKXFROSTYXRAİDER     {E}|
+      |{G}[+] Developer : {B}RED HACK X RAİDER    {E}|
       |{G}[+] TeleGram  : {B}https://t.me/redhackarsiv{E}|
       {E}==============================''')
-print('               M  R  X                     ')      
-print('''\033[1;34m        https://t.me/redhackarsiv       
+print('               R A İ D E R                    ')      
+print('''\033[1;34m    Burası İyi Olanların Değil, İyi Oynayanların Mekanı!       
        \n\n''')    
 
-print('\033[1;35m    You must subscribe to this channel   \n')              
+print('\033[1;35m    Merhaba, Lütfen Başlamadan Önce Telegram Kanalımıxa Uğra!   \n')              
 #os.system(f'xdg-open https://t.me/redhackarsiv')
 time.sleep(3)       
-os.system(f'xdg-open https://t.me/mrxarsiv')
+os.system(f'xdg-open https://t.me/reshackarsiv')
 time.sleep(3)
    
 id=input(W+f'  [{E} ** {W}]  {S}Telegram ID Gir ==> {B}')
